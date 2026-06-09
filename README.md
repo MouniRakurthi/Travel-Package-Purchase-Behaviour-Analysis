@@ -38,11 +38,11 @@ The dataset was cleaned and transformed before analysis to ensure consistency an
 ---
 
 ## 🔄 Steps Performed
-Data Cleaning & Preparation
-Exploratory Data Analysis (EDA)
-Hypothesis Testing
-Data Visualization (Power BI)
-Reporting & Documentation
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Hypothesis Testing
+* Data Visualization (Power BI)
+* Reporting & Documentation
 
 
 
